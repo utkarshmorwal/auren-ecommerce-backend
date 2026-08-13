@@ -4,7 +4,7 @@ Auren is a full-stack e-commerce application backend built with Java and Spring 
 
 ## 🚀 Live Project
 
-**Frontend:** https://auren-ecommerce-frontend.vercel.app/
+**Frontend:** [https://auren-ecommerce-frontend.vercel.app/](https://auren-clothing-fashion.vercel.app/)
 
 **Backend:** Deployed on Railway
 
